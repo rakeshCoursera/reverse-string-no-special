@@ -1,0 +1,19 @@
+{
+  "name": "reverse-string-no-special",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshCoursera/reverse-string-no-special.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshCoursera/reverse-string-no-special/issues"
+  },
+  "homepage": "https://github.com/rakeshCoursera/reverse-string-no-special#readme"
+}
